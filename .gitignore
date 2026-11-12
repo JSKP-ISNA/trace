@@ -1,0 +1,18 @@
+# Generated data
+samples/
+keys/
+reports/
+quarantine/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
